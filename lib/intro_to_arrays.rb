@@ -6,10 +6,10 @@ def array_with_two_elements
   my_new_array = ["0","1"]
 end
 
-def instantiate_new_array
+def first_element
   my_new_array = []
 end
 
-def array_with_two_elements
+def third_element
   my_new_array = ["0","1"]
 end
