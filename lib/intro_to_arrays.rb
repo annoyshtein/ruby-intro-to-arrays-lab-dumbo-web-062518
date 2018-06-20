@@ -10,10 +10,10 @@ def first_element(array)
   my_new_array = []
 end
 
-def third_element
+def third_element(array)
   my_new_array = ["0","1"]
 end
 
-def last_element
+def last_element(array)
   my_new_array = ["0","1"]
 end
