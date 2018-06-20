@@ -13,3 +13,7 @@ end
 def third_element
   my_new_array = ["0","1"]
 end
+
+def last_element
+  my_new_array = ["0","1"]
+end
